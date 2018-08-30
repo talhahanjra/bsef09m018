@@ -13,7 +13,7 @@ TestResults
 *.user
 *.sln.docstates
 
-# Build results
+# Build results That
 [Dd]ebug/
 [Rr]elease/
 x64/
